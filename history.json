@@ -1,0 +1,26 @@
+[
+    {
+        "source": "04530-080, Brasil",
+        "destination": "04530-000, Itaim Bibi, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, Brasil",
+        "distance_km": 0.72,
+        "created_at": "2025-03-29 15:20:05"
+    },
+    {
+        "source": "04530-000, Itaim Bibi, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, Brasil",
+        "destination": "04530-090 itaim bibi, São paulo",
+        "distance_km": 0.63,
+        "created_at": "2025-03-29 15:26:22"
+    },
+    {
+        "source": "04530-080, Brasil",
+        "destination": "04530-000, Itaim Bibi, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, Brasil",
+        "distance_km": 0.72,
+        "created_at": "2025-03-29 15:27:07"
+    },
+    {
+        "source": "04530-080, Brasil",
+        "destination": "04530-000, Itaim Bibi, São Paulo, Região Imediata de São Paulo, Região Metropolitana de São Paulo, São Paulo, Região Sudeste, Brasil",
+        "distance_km": 0.72,
+        "created_at": "2025-03-29 15:35:26"
+    }
+]

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>History</title>
+</head>
+<body>
+    <h1>Query History</h1>
+    <ul>
+        {% for q in queries %}
+            <li>
+            'source': {{q.source}},
+            <br>
+            'destination': {{q.destination}},
+            <br>
+            'distance': {{q.distance_km}} km,
+            <br>
+            'created_at': {{q.created_at}}
+            </li>
+        {% empty %}
+            <li>No queries yet.</li>
+        {% endfor %}
+    </ul>
+    <a href="/">Back</a>
+</body>
+</html>
