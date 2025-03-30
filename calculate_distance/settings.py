@@ -34,7 +34,7 @@ SECRET_KEY = 'django-insecure-!n%5r_c8s^a5bj1s)x3twyqqwbv#js9+1@ioa##$*z(&xd0)sl
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['calculate-distance-challenge-94caef2cb0d8.herokuapp.com']
 
 
 # Application definition
